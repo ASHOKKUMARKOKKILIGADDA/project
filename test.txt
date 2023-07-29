@@ -1,2 +1,2 @@
-touch guvi{1..20}.txt
+1234
 abcd
